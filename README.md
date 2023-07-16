@@ -12,3 +12,5 @@ Day 4: Optimisation part of 3_sum was good (REVISIT) Minimize Size Subarray tric
 Day 5: Revese Pair requires strong logic building (REVISIT)
 
 Day 6: Sorting concept was good in longest common prefix.
+
+Day 7: Hashing method used in Interger to Roman is awesome (REVISIT)
