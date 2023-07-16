@@ -6,3 +6,9 @@ Day 1:  Mostly revised the questions
 Day 2: Subarray Sums Divisible by K is a good question(REVISIT)
 
 Day 3: Jump game is solved using a good code implementation(REVISIT)
+
+Day 4: Optimisation part of 3_sum was good (REVISIT) Minimize Size Subarray tricky question (REVISIT)
+
+Day 5: Revese Pair requires strong logic building (REVISIT)
+
+Day 6: Sorting concept was good in longest common prefix.
