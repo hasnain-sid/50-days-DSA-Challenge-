@@ -16,3 +16,5 @@ Day 6: Sorting concept was good in longest common prefix.
 Day 7: Hashing method used in Interger to Roman is awesome (REVISIT)
 
 Day 8: Solved easy questions.
+
+Day 9: Learned Fast and Slow pointers 
