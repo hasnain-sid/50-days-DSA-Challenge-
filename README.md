@@ -19,4 +19,4 @@ Day 8: Solved easy questions.
 
 Day 9: Learned Fast and Slow pointers 
 
-Day 10:
+Day 10: Solved easy questions.
