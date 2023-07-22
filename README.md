@@ -25,4 +25,4 @@ Day 11: Counting bits obervation is good
 
 Day 12: To optimise Game of life (REVISIT ALL)
 
-Day 13: 
+Day 13: Smallest window (REVIST++)
