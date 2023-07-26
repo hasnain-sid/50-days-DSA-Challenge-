@@ -32,3 +32,5 @@ Day 14: Word wrap is a good question related to dp (REVIST)
 Day 15: (REVIST ALL)
 
 Day 16: Knight Dailer (REVISIT)
+
+Day 17
