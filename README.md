@@ -34,3 +34,5 @@ Day 15: (REVIST ALL)
 Day 16: Knight Dailer (REVISIT)
 
 Day 17: No problem
+
+Day 18 : NA
