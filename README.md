@@ -33,10 +33,12 @@ Day 15: (REVIST ALL)
 
 Day 16: Knight Dailer (REVISIT)
 
-Day 17:
-
 Day 17: No problem
 
 Day 18: NA
 
 Day 19: Rotate matrix (REVIST)
+
+Day 20: When we are increasing n - 1 elements by one, it can be treated as subtracting one element by 1.
+
+Day 21: Excel sheet (REVISIT)
