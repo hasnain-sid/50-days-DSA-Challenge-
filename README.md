@@ -44,3 +44,5 @@ Day 20: When we are increasing n - 1 elements by one, it can be treated as subtr
 Day 21: Excel sheet (REVISIT)
 
 Day 22: NA
+
+Day 23: For checking power of 2 (n&(n-1)) works.
