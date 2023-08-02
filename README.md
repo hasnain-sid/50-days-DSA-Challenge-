@@ -42,3 +42,5 @@ Day 19: Rotate matrix (REVIST)
 Day 20: When we are increasing n - 1 elements by one, it can be treated as subtracting one element by 1.
 
 Day 21: Excel sheet (REVISIT)
+
+Day 22: NA
