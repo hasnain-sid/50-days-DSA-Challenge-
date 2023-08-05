@@ -50,3 +50,5 @@ Day 23: For checking power of 2 (n&(n-1)) works.
 Day 24: Max point good implementation (REVIST).
 
 Day 25: NA
+
+Day 26: NA
