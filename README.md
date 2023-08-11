@@ -3,7 +3,7 @@ A 50 days DSA challenge with college friends to get motivated all the time and t
 
 Day 1:  Mostly revised the questions
 
-Day 2: Subarray Sums Divisible by K is a good question(REVISIT)
+Day 2: Subarray Sums Divisible by K is a good question(REVISIT) 
 
 Day 3: Jump game is solved using a good code implementation(REVISIT)
 
@@ -61,4 +61,6 @@ Day 29: Peak element(REVISIT)
 
 Day 30: Both (REVISIT)++.
 
-REVISION Day 1
+REVISION Day 1 -> Jump Game,Subarray Sums Divisible by K
+
+REVISION Day 2 -> Minimize Size Subarray, Reverse Pair,Interger to Roman
