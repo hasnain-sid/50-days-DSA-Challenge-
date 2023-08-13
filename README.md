@@ -65,4 +65,6 @@ REVISION Day 1 -> Jump Game,Subarray Sums Divisible by K
 
 REVISION Day 2 -> Minimize Size Subarray, Reverse Pair,Interger to Roman
 
-REVISION Day 3
+REVISION Day 3 -> Counting bits
+
+REVISION Day 4 -> Game of Life, Maximum Number of Jumps
