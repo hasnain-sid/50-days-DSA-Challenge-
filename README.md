@@ -69,4 +69,6 @@ REVISION Day 3 -> Counting bits
 
 REVISION Day 4 -> Game of Life, Maximum Number of Jumps
 
-REVISION Day 5
+REVISION Day 5-> Smallest Window
+
+REVISION Day 6-> Word Wrap
