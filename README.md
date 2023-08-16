@@ -71,4 +71,6 @@ REVISION Day 4 -> Game of Life, Maximum Number of Jumps
 
 REVISION Day 5-> Smallest Window
 
-REVISION Day 6-> Word Wrap
+REVISION Day 6 -> Word Wrap
+
+REVISION Day 7 -> Largest Rectangle in Histogram, Maximal Rectangle, Spiral Matrix.
