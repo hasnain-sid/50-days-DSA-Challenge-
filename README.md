@@ -74,3 +74,5 @@ REVISION Day 5-> Smallest Window
 REVISION Day 6 -> Word Wrap
 
 REVISION Day 7 -> Largest Rectangle in Histogram, Maximal Rectangle, Spiral Matrix.
+
+REVISION Day 8 -> Knigth Dailer, Rotate Matrix, Excel Sheet Column
