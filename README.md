@@ -83,6 +83,6 @@ REVISION Day 10 -> Peak Element, Aggressive Cow, Reverse Linked List and remaini
 
 Day 31:  Merge two sorted list (REVISIT)
 
-Day 32:
+Day 32: NA
 
-Day 33:
+Day 33: Intersection of Linked List (REVISIT)++
