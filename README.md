@@ -91,4 +91,6 @@ Day 34: NA
 
 Day 35: Optimise Palindrome Linked List (REVISIT)++
 
-Day 36: 
+Day 36: NA
+
+Day 37:
