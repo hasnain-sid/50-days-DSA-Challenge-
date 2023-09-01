@@ -98,3 +98,5 @@ Day 37: NA
 Day 38: REVISIT
 
 Day 39: Copy Linked List (REVISIT)
+
+Day 40: Optimise space comp. (REVISIT)
