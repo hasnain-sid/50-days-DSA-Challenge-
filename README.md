@@ -101,4 +101,5 @@ Day 39: Copy Linked List (REVISIT)
 
 Day 40: Optimise space comp. (REVISIT)
 
-Day 41:
+Day 41: Reverse 2 (REVISIT)
+
