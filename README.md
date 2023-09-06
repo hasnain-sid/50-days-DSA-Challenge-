@@ -105,4 +105,6 @@ Day 41: Reverse 2 (REVISIT)
 
 Day 42: NA
 
-Day 43:
+Day 43: Partition (REVISIT)
+
+Day 44: NA
