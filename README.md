@@ -107,11 +107,11 @@ Day 42: NA
 
 Day 43: Partition (REVISIT)
 
-Day 44: NA
+Day 44: CF 900 DIV 3 (C) (REVISIT)
 
 Day 45: (REVISIT)
 
-Day 46: NA
+Day 46: CC st. 102 Array Sum (REVISIT)
 
 Day 47: Delete Node at right (REVIST)++
 
