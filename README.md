@@ -117,7 +117,7 @@ Day 47: Delete Node at right (REVIST)++
 
 Day 48: (REVISIT)++ 
 
-Day 49: NA
+Day 49: Common element GFG (REVISTI)++
 
 Day 50:  Building an Aquarium CF(REVISIT) 907. Sum of Subarray Minimums (REVISIT)++
 
