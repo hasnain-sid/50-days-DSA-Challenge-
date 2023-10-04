@@ -109,7 +109,7 @@ Day 43: Partition (REVISIT)
 
 Day 44: CF 900 DIV 3 (C) (REVISIT)
 
-Day 45: (REVISIT)
+Day 45: subarry with sum 0 (GFG) + (REVISIT)
 
 Day 46: CC st. 102 Array Sum (REVISIT)
 
