@@ -131,4 +131,4 @@ REVISION Day 4-> Palindrome Linked List
 
 REVISION Day 5-> Copy Linked List
 
-REVISION
+REVISION Day 6-> Reverse 2
