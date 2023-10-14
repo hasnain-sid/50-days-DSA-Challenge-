@@ -113,7 +113,7 @@ Day 45: subarry with sum 0 (GFG) + (REVISIT)
 
 Day 46: CC st. 102 Array Sum (REVISIT)
 
-Day 47: Delete Node at right (REVIST)++
+Day 47: CF 885 B + Delete Node at right (REVIST)++
 
 Day 48: Maximum Length of Repeated Subarray + (REVISIT)++ 
 
