@@ -97,7 +97,7 @@ Day 37: NA
 
 Day 38: REVISIT
 
-Day 39: Copy Linked List (REVISIT)
+Day 39: Copy Linked List + CF 903 D. Divide and Equalize (REVISIT)
 
 Day 40: Optimise space comp. (REVISIT)
 
