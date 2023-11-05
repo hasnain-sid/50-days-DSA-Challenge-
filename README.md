@@ -133,5 +133,7 @@ REVISION Day 5-> Copy Linked List
 
 REVISION Day 6-> Reverse 2
 
-REVISION Day 7 -> Partition List
+REVISION Day 7-> Partition List
+
+REVISION Day 8-> CF 900 DIV 3 (C) 
 
