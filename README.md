@@ -135,5 +135,5 @@ REVISION Day 6-> Reverse 2
 
 REVISION Day 7-> Partition List
 
-REVISION Day 8-> CF 900 DIV 3 (C) 
+REVISION Day 8-> CF 900 DIV 3(C) 
 
