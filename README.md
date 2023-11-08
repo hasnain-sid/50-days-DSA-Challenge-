@@ -131,7 +131,7 @@ REVISION Day 4-> Palindrome Linked List
 
 REVISION Day 5-> Copy Linked List
 
-REVISION Day 6-> Reverse 2
+REVISION Day 6-> Reverse 2 +Delete nodes which have a greater value on right side
 
 REVISION Day 7-> Partition List + Stack using queue
 
