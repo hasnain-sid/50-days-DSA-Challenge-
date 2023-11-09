@@ -133,7 +133,7 @@ REVISION Day 5-> Copy Linked List + Maximum Length of Repeated Subarray
 
 REVISION Day 6-> Reverse 2 +Delete nodes which have a greater value on right side
 
-REVISION Day 7-> Partition List + Stack using queue
+REVISION Day 7-> Partition List + Stack using queue+ Greatest Sum Divisible by Three
 
 REVISION Day 8-> CF 900 DIV 3(C) + subarry with sum 0 (GFG)
 
