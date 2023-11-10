@@ -137,5 +137,7 @@ REVISION Day 7-> Partition List + Stack using queue+ Greatest Sum Divisible by T
 
 REVISION Day 8-> CF 900 DIV 3(C) + subarry with sum 0 (GFG)
 
+REVISION Day 9-> Online Stock Plan
+
  
 
