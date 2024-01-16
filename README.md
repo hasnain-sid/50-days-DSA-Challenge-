@@ -117,7 +117,8 @@ Day 47: CF 885 B + Delete Node at right (REVIST)++
 
 Day 48: Maximum Length of Repeated Subarray + (REVISIT)++ 
 
-Day 49: Common element GFG +Minimize the hegith 2 GFG(REVISTI)++
+Day 49: Common element GFG +Minimize the hegith 2 GFG + 380. Insert Delete GetRandom O(1)
+(REVISTI)++ 
 
 Day 50:  Building an Aquarium CF(REVISIT) 907. Sum of Subarray Minimums (REVISIT)++
 
