@@ -140,7 +140,7 @@ REVISION Day 8-> CF 900 DIV 3(C) + subarry with sum 0 (GFG)
 
 REVISION Day 9-> Online Stock Plan + Knight Dailer
 
-PRACTISE -> LC 1438 Longest Conti.
+PRACTISE -> LC 1438 Longest Conti. 1043. Partition Array for Maximum Sum(REVIST)++
 
  
 
