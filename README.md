@@ -142,7 +142,9 @@ REVISION Day 9-> Online Stock Plan + Knight Dailer
 
 PRACTISE -> LC 1438 Longest Conti. 1043. Partition Array for Maximum Sum(REVIST)++
 
- PRACTISE -> LC 74                ** VVVVI QUESTION**
+PRACTISE -> LC 74                ** VVVVI QUESTION**
+
+PRACTISE -> Count Subarrays Where Max Element Appears at Least K Times
 
  
 
